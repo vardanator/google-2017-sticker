@@ -1,0 +1,103 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "multer-autoreap@^0.1.3",
+        "scope": null,
+        "escapedName": "multer-autoreap",
+        "name": "multer-autoreap",
+        "rawSpec": "^0.1.3",
+        "spec": ">=0.1.3 <0.2.0",
+        "type": "range"
+      },
+      "/Users/vardanator/workspace/helpin-2.0"
+    ]
+  ],
+  "_from": "multer-autoreap@>=0.1.3 <0.2.0",
+  "_id": "multer-autoreap@0.1.3",
+  "_inCache": true,
+  "_location": "/multer-autoreap",
+  "_nodeVersion": "4.7.2",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/multer-autoreap-0.1.3.tgz_1485456898881_0.10321275005117059"
+  },
+  "_npmUser": {
+    "name": "joelbair",
+    "email": "joel.a.bair@gmail.com"
+  },
+  "_npmVersion": "2.15.11",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "multer-autoreap@^0.1.3",
+    "scope": null,
+    "escapedName": "multer-autoreap",
+    "name": "multer-autoreap",
+    "rawSpec": "^0.1.3",
+    "spec": ">=0.1.3 <0.2.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/multer-autoreap/-/multer-autoreap-0.1.3.tgz",
+  "_shasum": "5f222423c73e3cd88610d54ddae087e97e967564",
+  "_shrinkwrap": null,
+  "_spec": "multer-autoreap@^0.1.3",
+  "_where": "/Users/vardanator/workspace/helpin-2.0",
+  "author": {
+    "name": "Joel A. Bair",
+    "email": "joel.a.bair@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/joelabair/multer-autoreap/issues"
+  },
+  "dependencies": {
+    "debug": "^2.2.0",
+    "on-finished": "^2.3.0"
+  },
+  "description": "Connect middleware providing auto gc of tmp uploaded files by multer or any multipart middleware.",
+  "devDependencies": {
+    "chai": "^3.5.x",
+    "express": "~4.4.4",
+    "mocha": "^3.0.2",
+    "multer": "^1.2.0",
+    "supertest": "^0.15.0"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "5f222423c73e3cd88610d54ddae087e97e967564",
+    "tarball": "https://registry.npmjs.org/multer-autoreap/-/multer-autoreap-0.1.3.tgz"
+  },
+  "gitHead": "1a7892d276ecb30f9548e45b30b133c2efbda031",
+  "homepage": "https://github.com/joelabair/multer-autoreap#readme",
+  "keywords": [
+    "multer",
+    "multipart",
+    "form-data",
+    "express",
+    "middleware",
+    "gc",
+    "reap",
+    "reaper"
+  ],
+  "license": "GPL-2.0+",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "joelbair",
+      "email": "joel.a.bair@gmail.com"
+    }
+  ],
+  "name": "multer-autoreap",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joelabair/multer-autoreap.git"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "version": "0.1.3"
+}

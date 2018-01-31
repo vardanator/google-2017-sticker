@@ -1,0 +1,36 @@
+{
+  "name": "project-rise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://vardanator@bitbucket.org/vardanator/project-rise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/vardanator/project-rise#readme",
+  "dependencies": {
+    "bleach": "^0.3.0",
+    "body-parser": "^1.17.1",
+    "compression": "^1.6.2",
+    "cors": "^2.8.4",
+    "ejs": "^2.5.7",
+    "express": "^4.15.2",
+    "iplocation": "^5.0.0",
+    "keygenerator": "^1.0.4",
+    "method-override": "^2.3.8",
+    "moment-timezone": "^0.5.13",
+    "mongoose": "^4.9.6",
+    "multer": "^1.3.0",
+    "multer-autoreap": "^0.1.3",
+    "probe-image-size": "^3.0.0",
+    "request": "^2.81.0",
+    "request-promise": "^4.2.1",
+    "url-regex": "^4.0.0",
+    "validator": "^7.0.0"
+  }
+}

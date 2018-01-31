@@ -1,0 +1,92 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "keygenerator@^1.0.4",
+        "scope": null,
+        "escapedName": "keygenerator",
+        "name": "keygenerator",
+        "rawSpec": "^1.0.4",
+        "spec": ">=1.0.4 <2.0.0",
+        "type": "range"
+      },
+      "/Users/vardanator/workspace/helpin-2.0"
+    ]
+  ],
+  "_from": "keygenerator@>=1.0.4 <2.0.0",
+  "_id": "keygenerator@1.0.4",
+  "_inCache": true,
+  "_location": "/keygenerator",
+  "_nodeVersion": "0.12.2",
+  "_npmUser": {
+    "name": "mrcrgl",
+    "email": "mail@mrcrgl.de"
+  },
+  "_npmVersion": "2.7.4",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "keygenerator@^1.0.4",
+    "scope": null,
+    "escapedName": "keygenerator",
+    "name": "keygenerator",
+    "rawSpec": "^1.0.4",
+    "spec": ">=1.0.4 <2.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/keygenerator/-/keygenerator-1.0.4.tgz",
+  "_shasum": "4ac884827cbf3b153636bb5425efe5831f9fe8ad",
+  "_shrinkwrap": null,
+  "_spec": "keygenerator@^1.0.4",
+  "_where": "/Users/vardanator/workspace/helpin-2.0",
+  "author": {
+    "name": "Marc Riegel",
+    "email": "mail@mrcrgl.de"
+  },
+  "bugs": {
+    "url": "https://github.com/mrcrgl/node-keygen/issues"
+  },
+  "dependencies": {},
+  "description": "Random key generator for node.js",
+  "devDependencies": {
+    "vows": "*"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "4ac884827cbf3b153636bb5425efe5831f9fe8ad",
+    "tarball": "https://registry.npmjs.org/keygenerator/-/keygenerator-1.0.4.tgz"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "gitHead": "8f11c0c8020c6078202d715ab5d133c641b05694",
+  "homepage": "https://github.com/mrcrgl/node-keygen",
+  "keywords": [
+    "key",
+    "random",
+    "string",
+    "password",
+    "session_id"
+  ],
+  "license": "MIT",
+  "main": "./index",
+  "maintainers": [
+    {
+      "name": "mrcrgl",
+      "email": "mail@marclab.de"
+    }
+  ],
+  "name": "keygenerator",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mrcrgl/node-keygen.git"
+  },
+  "scripts": {
+    "test": "vows --spec --isolate ./test/index.js"
+  },
+  "version": "1.0.4"
+}
